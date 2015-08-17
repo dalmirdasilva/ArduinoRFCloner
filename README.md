@@ -1,4 +1,3 @@
-ArduinoRFCloner
-===============
+# Arduino RF Cloner Library
 
-RF Cloner
+[Documentation.pdf](Documentation.pdf)
